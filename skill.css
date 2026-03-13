@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(1, 1, 56);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: wheat;
+    align-items: right;
+    
+}
+/* NAvigation work*/
+nav{
+    background-color: rgba(7, 129, 243, 0.808);
+    width: 30%;
+    height: 100%;
+    color: antiquewhite;
+    margin-top: 0%;
+    position: fixed;
+    text-align: center;
+}
+#nav{
+    color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 0;
+}
+/*adding navigaion text design*/
+.tool{
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: medium;
+}
+/* making text side align*/
+main{
+    text-align: right;
+}
+
+
+
+
